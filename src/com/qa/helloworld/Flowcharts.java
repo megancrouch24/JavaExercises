@@ -3,7 +3,7 @@ package com.qa.helloworld;
 public class Flowcharts {
 
 	public static void main(String[] args) {
-		System.out.println(addormultiply(1, 2, true));
+	System.out.println(addormultiply(1, 2, true));
 		flowchart(5000);
 	}
 

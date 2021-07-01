@@ -5,7 +5,6 @@ public class calculator {
 	public static void main(String[] args) {
 		System.out.println(add(1, 2));
 		System.out.println(multiplication(1, 2));
-		System.out.println(subtraction(3, 2));
 		System.out.println(division(3, 6));
 	}
 

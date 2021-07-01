@@ -7,7 +7,7 @@ public class EnhanchedForLoops {
 		// create an array of strings
 
 		String[] stArray = { "Meg", "Niall", "Si" };
-		String[] lArray = { "Tom", "Charlotte", "Dave" };
+	String[] lArray = { "Tom", "Charlotte", "Dave" };
 
 		printArray(stArray);
 		printArray(lArray);

@@ -5,12 +5,12 @@ import java.util.Collections;
 import java.util.List;
 
 public class Lists {
-
+	
 	public static void main(String[] args) {
 
 		List<String> names = new ArrayList<>();
 
-		names.add("Megan");
+	    names.add("Megan");
 		names.add("Niall");
 		names.add("Simon");
 		names.add("George");
